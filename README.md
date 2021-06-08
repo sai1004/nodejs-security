@@ -1,4 +1,4 @@
-#Things Covered
+#Topics Covered
 
 <h4>NodeJs Specific Security Issues</h4>
 <ul>
@@ -9,6 +9,5 @@
     <li> Untrusted User Input </li>
     <li> Regex Dos </li>
     <li> </li>
-    <li> </li>
-    <li> </li>
+ 
 </ul>

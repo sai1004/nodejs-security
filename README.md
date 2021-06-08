@@ -15,3 +15,5 @@
 <h4>Code Review</h4>
 
 https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide-V1_1.pdf
+
+https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html#recommendations

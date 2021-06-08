@@ -11,3 +11,7 @@
     <li> </li>
  
 </ul>
+
+<h4>Code Review</h4>
+
+https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide-V1_1.pdf
